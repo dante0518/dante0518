@@ -15,12 +15,17 @@ As an **open-minded** and **fast learner**, I'm constantly exploring new tools a
 ## Backend and other projects
 [![My Skills](https://skillicons.dev/icons?i=python,cs&theme=dark)](https://skillicons.dev)
 
+## Programs I use
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
+
 ## Future plans to expand knowledge
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,mysql,vue,cpp,azure&theme=dark)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dante0518&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dante0518&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+
+
 
 # 📨 Contact me
 <div>
@@ -33,6 +38,7 @@ As an **open-minded** and **fast learner**, I'm constantly exploring new tools a
   </a>
 </p>
 </div>
+
 
 
 
