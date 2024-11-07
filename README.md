@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Skaikru_ 👋
+
+I’m diving into the world of **fullstack development** from the ground up, with a strong start in frontend. 
+Programming isn't just a career goal for me; it's also a passion and hobby.
+I’m drawn to modern, minimalistic designs that look great and emphasize responsiveness for all screen sizes.
+
+As an **open-minded** and **fast learner**, I'm constantly exploring new tools and techniques. My aim is to create intuitive, visually appealing web experiences. Let’s build something amazing together! 🚀
+
+
 
 <!--
 **dante0518/dante0518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
